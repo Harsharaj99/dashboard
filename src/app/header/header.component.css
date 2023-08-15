@@ -1,0 +1,27 @@
+.flex-container{
+    width: 100%;
+}
+.flex-container ul{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    list-style: none;
+
+}
+img{
+    margin-left: 20px;
+}
+.d-flex{
+    margin-left: 900px;
+}
+.nav{
+    background-color:#00695C;
+}
+.head{
+    color: aliceblue;
+    
+}
+.form-control{
+    background-color: #cce1de;
+    width: 100px;
+}
